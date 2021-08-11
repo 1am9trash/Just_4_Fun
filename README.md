@@ -20,3 +20,5 @@
   - [x] 編輯修課標準
   - [ ] 連接後端，建立存檔
   - [ ] 架構優化
+
+- 感謝[@Ligoon](https://github.com/Ligoon)測試
