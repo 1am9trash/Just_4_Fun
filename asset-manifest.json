@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Just_4_Fun/static/js/main.b0c5af9e.chunk.js",
-    "main.js.map": "/Just_4_Fun/static/js/main.b0c5af9e.chunk.js.map",
+    "main.js": "/Just_4_Fun/static/js/main.c0dae70d.chunk.js",
+    "main.js.map": "/Just_4_Fun/static/js/main.c0dae70d.chunk.js.map",
     "runtime-main.js": "/Just_4_Fun/static/js/runtime-main.4f40bd29.js",
     "runtime-main.js.map": "/Just_4_Fun/static/js/runtime-main.4f40bd29.js.map",
     "static/css/2.630ef54a.chunk.css": "/Just_4_Fun/static/css/2.630ef54a.chunk.css",
-    "static/js/2.c84f934b.chunk.js": "/Just_4_Fun/static/js/2.c84f934b.chunk.js",
-    "static/js/2.c84f934b.chunk.js.map": "/Just_4_Fun/static/js/2.c84f934b.chunk.js.map",
+    "static/js/2.f7aaf86e.chunk.js": "/Just_4_Fun/static/js/2.f7aaf86e.chunk.js",
+    "static/js/2.f7aaf86e.chunk.js.map": "/Just_4_Fun/static/js/2.f7aaf86e.chunk.js.map",
     "index.html": "/Just_4_Fun/index.html",
     "static/css/2.630ef54a.chunk.css.map": "/Just_4_Fun/static/css/2.630ef54a.chunk.css.map",
-    "static/js/2.c84f934b.chunk.js.LICENSE.txt": "/Just_4_Fun/static/js/2.c84f934b.chunk.js.LICENSE.txt"
+    "static/js/2.f7aaf86e.chunk.js.LICENSE.txt": "/Just_4_Fun/static/js/2.f7aaf86e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f40bd29.js",
     "static/css/2.630ef54a.chunk.css",
-    "static/js/2.c84f934b.chunk.js",
-    "static/js/main.b0c5af9e.chunk.js"
+    "static/js/2.f7aaf86e.chunk.js",
+    "static/js/main.c0dae70d.chunk.js"
   ]
 }
