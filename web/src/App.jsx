@@ -4,6 +4,7 @@ import { Collapse, Row, Col } from "antd";
 import MyCategory from "./components/MyCategory";
 import MyData from "./components/MyData";
 import MyInsertion from "./components/MyInsertion";
+import MyAccount from "./components/MyAccount";
 
 const { Panel } = Collapse;
 
@@ -57,10 +58,13 @@ export default function App() {
           lg={{ span: 6 }}
         >
           <Collapse accordion>
-            <Panel header="導入成績" key={0}>
+            <Panel header="帳號" key={0}>
+              <MyAccount {...props} />
+            </Panel>
+            <Panel header="導入成績" key={1}>
               <MyData {...props} />
             </Panel>
-            <Panel header="新增成績" key={1}>
+            <Panel header="新增成績" key={2}>
               <MyInsertion {...props} />
             </Panel>
           </Collapse>

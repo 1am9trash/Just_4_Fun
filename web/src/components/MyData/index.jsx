@@ -4,9 +4,6 @@ import { Button, Input } from "antd";
 export default function MyData(props) {
   // 處理數據
   function getData() {
-    // 無資料則不做處理
-    if (refData === undefined) return;
-
     // 使用tab跟空白分割後，篩除空字串
     let rawData = refData.split(/[ \t]/).filter((str) => str !== "");
 
@@ -79,7 +76,7 @@ export default function MyData(props) {
     props.setData(data);
   }
 
-  let refData;
+  let refData = "";
 
   return (
     <>
