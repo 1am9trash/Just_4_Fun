@@ -26,12 +26,12 @@
   - 配置`package.json`（只有第一次發布需要配置）
     ```json
     "scripts": {
-        // 如果使用react，原本會有的script
+        "註解1": "如果使用react，原本會有的script",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        // 在最後加上deploy
+        "註解2": "在最後加上deploy",
         "deploy": "gh-pages -d build"
     },
     ```
